@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name esp32-tlk110)(type KiCad)(uri ${KIPRJMOD}/esp32-tlk110.pretty)(options "")(descr ""))
+)
