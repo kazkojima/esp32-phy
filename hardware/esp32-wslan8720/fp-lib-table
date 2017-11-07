@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name esp32lan)(type KiCad)(uri ${KIPRJMOD}/esp32-wslan8720.pretty)(options "")(descr ""))
+)
